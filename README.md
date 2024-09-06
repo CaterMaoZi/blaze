@@ -1,3 +1,8 @@
+# Fix
+这是一个专门供给MC灵依资源站(https://mcres.cn)的Blaze服务端修复版本
+在原作者的仓库(https://github.com/traksag/blaze)中,
+src/chunk_loader.c的第257行为:
+
 # Blaze
 
 Handmade game server for Minecraft Java Edition 1.19.4.
